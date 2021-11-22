@@ -8,7 +8,7 @@
 
 ### About me :honeybee:
 
-- :computer: Computer scientist with a few years of experience in software development
-- :bar_chart: Currently working as Big Data Engineer
+- :computer: Computer scientist with a few years of experience in software development and design
+- :bar_chart: Currently working as Data Engineer @ IBM
 - :books: Mostly interested in Machine Learning & Deep Learning, Big Data, Computer Vision and Business Intelligence 
 - :honeybee: I'm a cat lady, a huge fan of chamomile tea and hikings
