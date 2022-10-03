@@ -1,4 +1,4 @@
-## :sunflower: Hello there, I'm Bianca Amorim :sunflower:
+## Hello there, I'm Bianca Amorim 👩‍💻
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/biancaamorimelo)](https://github.com/biancaamorimelo) |
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biancaamorimelo/)](https://www.linkedin.com/in/biancaamorimelo/) |
@@ -10,6 +10,6 @@
 
 - :computer: Computer scientist with a few years of experience in software development and design
 - :bar_chart: Currently working as Data Engineer @ IBM
-- :books: Mostly interested in Machine Learning & Deep Learning, Big Data, Computer Vision and Business Intelligence 
-- :coin: A huge blockchain and web3 enthusiast
-- :honeybee: I'm a cat lady, fan of chamomile tea, great coffee and hikings
+- 📄: Mostly interested in data universe, such as data engineering, data science and big data 
+- :coin: Blockchain and web3 enthusiast
+- :honeybee: A cat lady, fan of chamomile tea, great coffee and hikings
