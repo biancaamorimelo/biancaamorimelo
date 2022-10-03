@@ -12,4 +12,4 @@
 - :bar_chart: Currently working as Data Engineer @ IBM
 - 📄: Mostly interested in data universe, such as data engineering, data science and big data 
 - :coin: Blockchain and web3 enthusiast
-- :honeybee: A cat lady, fan of chamomile tea, great coffee and hikings
+- ✈️: A cat lady, who loves chamomile tea, great coffee and travelling
