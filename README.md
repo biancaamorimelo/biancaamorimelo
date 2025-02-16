@@ -1,6 +1,6 @@
-### Hi there, I'm Bianca Amorim!
+### Hey there, my name is Bianca!
 
-I'm a data engineer based in Brazil with over 5 years of experience in data (science, engineering, and analytics) and project management.
+I'm a data girl based in Brazil with over 5 years of experience in data projects and product management.
 
 #### About me:
 
