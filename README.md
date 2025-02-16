@@ -1,14 +1,14 @@
 ### Hi there, I'm Bianca Amorim!
 
-I'm a data engineer based in Brazil with over 5 years of experience in data science, data engineering, and project management.
+I'm a data engineer based in Brazil with over 5 years of experience in data (science, engineering, and analytics) and project management.
 
 #### About me:
 
-- <img height="12" src="https://purepng.com/public/uploads/large/purepng.com-ibm-logologobrand-logoiconslogos-251519939176ka7y8.png"> Data Engineer/Data Scientist @ Bradesco
-- <img height="15" src="https://seeklogo.com/images/G/google-developers-logo-3FB15D7DCE-seeklogo.com.png"> Women TechMakers volunteer @ GDG JP
-- <img height="20" src="https://cryptologos.cc/logos/ethereum-eth-logo.png"> Blockchain and Web3 enthusiast
-- <img height="18" src="https://static.vecteezy.com/system/resources/thumbnails/009/665/304/small/cute-kitty-cat-head-cartoon-element-free-png.png"> A cat lady, who loves chamomile tea, great coffee, and travel the world
-
+- Data Engineer/Data Scientist @ Bradesco
+- Women TechMakers volunteer @ GDG JP
+- Blockchain and Web3 enthusiast
+- I'm a cat lady and I love chamomile tea, great coffee, and traveling
+  
 #### Contact me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/biancaamorimelo)](https://github.com/biancaamorimelo) | 
