@@ -1,13 +1,9 @@
 ### Hey there, my name is Bianca!
 
-I'm a data girl based in Brazil with over 5 years of experience in data projects and product management.
+- Data professional with 6+ years of experience in analytics and engineering
+- Experienced in finance, banking, marketing, and telecom projects
+- Interested in innovation, web3, and blockchain
 
-#### About me:
-
-- Data Engineer/Data Scientist @ Bradesco
-- Women TechMakers volunteer @ GDG JP
-- Blockchain and Web3 enthusiast
-- I'm a cat lady and I love chamomile tea, great coffee, and traveling
   
 #### Contact me:
 
